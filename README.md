@@ -2,4 +2,5 @@
 This is a page for some yerba mansa phenology data.
 
 <img
-src+"https://github.com/IRtorre5/yerba_mansa/blob/main/images/PXL_20220719_155024451.jpg"
+
+src="https://github.com/IRtorre5/yerba_mansa/blob/main/images/PXL_20220719_155024451.jpg"
